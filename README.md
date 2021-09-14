@@ -1,4 +1,4 @@
-# ETG-Summer Olympics data analysis
+# ETG - Summer Olympics data analysis
 
 This repository contains Summer Olympics data analysis project done in AI / ML internship by ETG
 
